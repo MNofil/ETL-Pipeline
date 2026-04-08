@@ -1,0 +1,10 @@
+2026-04-08-21:55:30,ETL Job Started
+2026-04-08-21:55:30,Extract phase Started
+2026-04-08-21:55:56,Extract phase Completed
+2026-04-08-21:55:56,Transform phase Started
+2026-04-08-21:55:56,Transform phase Completed
+2026-04-08-21:55:56,Load phase Started
+2026-04-08-21:55:56,Load phase Completed (CSV)
+2026-04-08-21:55:57,Load phase Completed (Database)
+2026-04-08-21:55:57,Running the query
+2026-04-08-21:55:57,ETL Job Completed
